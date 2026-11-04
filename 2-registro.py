@@ -1,2 +1,9 @@
 import os
-os.system("cls")
+
+while True:
+    os.system("cls")
+    
+    
+    
+    codigo=int(input("digite o codigo "))
+

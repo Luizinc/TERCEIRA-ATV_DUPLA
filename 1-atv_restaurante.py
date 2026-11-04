@@ -1,4 +1,5 @@
 import os
+<<<<<<< HEAD
 import time
 valor = 0
 lista_pratos = []
@@ -79,3 +80,28 @@ while True:
         case _:
             print("opção inválida")
     input('\npressione enter para continuar')
+=======
+
+
+while True:
+    os.system('cls')
+
+
+
+
+
+
+    
+    codigo=int('digite o codigo corresponde com o menu acima:')
+    
+    match codigo:
+        
+        case 1:
+            ...
+        case 2:
+            ...
+        case 3:
+            ...
+        case 4:
+            ...
+>>>>>>> c89524a9ce6ab0669059719686477dc81610b2e4
